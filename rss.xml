@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SimpleKnight's Simple Life]]></title>
         <description><![CDATA[SimpleKnight's Simple Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://simpleknight.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 18:36:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 18:54:29 GMT</lastBuildDate>
+        <atom:link href="http://simpleknight.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Small Things]]></title>
+            <description><![CDATA[<article><h1>Small Things</h1><p>As life becomes more frazzled, less organized, and the small things become muted against a backdrop of enormity, I find myself needing an outlet. Daily life has become a lesson in overcoming one hurdle after another, with little room for the minute. Where are the details? Where are the special moments and personal touches that make this life wonderful? You have found a place where I want to share these moments; The small matters, the unassuming pieces of grande architecture, single heart-beat against a backdrop of lifetimes. Welcome, and enjoy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18826ee7-8bb6-4d44-8b1f-a5e0aa31ccd2.jpg"></article>]]></description>
+            <link>http://simpleknight.com/small-things/index.html</link>
+            <guid isPermaLink="false">1b799a6e-0f00-4ace-9d3a-b7ccbeeaff56</guid>
+            <pubDate>Mon, 09 May 2016 18:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intrepid Adventurers]]></title>
             <description><![CDATA[<article><h1>Intrepid Adventurers</h1><p>Bull of the Woods Wilderness</p></article>]]></description>
-            <link>undefinedintrepid-adventurers/index.html</link>
+            <link>http://simpleknight.com/intrepid-adventurers/index.html</link>
             <guid isPermaLink="false">ac8144e9-f695-4ffe-b8d5-0a723ee26842</guid>
             <pubDate>Mon, 09 May 2016 18:36:07 GMT</pubDate>
         </item>
