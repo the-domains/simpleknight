@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SimpleKnight's Simple Life]]></title>
+        <description><![CDATA[SimpleKnight's Simple Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 18:36:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intrepid Adventurers]]></title>
+            <description><![CDATA[<article><h1>Intrepid Adventurers</h1><p>Bull of the Woods Wilderness</p></article>]]></description>
+            <link>undefinedintrepid-adventurers/index.html</link>
+            <guid isPermaLink="false">ac8144e9-f695-4ffe-b8d5-0a723ee26842</guid>
+            <pubDate>Mon, 09 May 2016 18:36:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
