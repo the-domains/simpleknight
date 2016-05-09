@@ -1,29 +1,41 @@
-name: Simpleknight
-favicon: null
-layout_spectrum: 0.9994
-typography_spectrum: 0.61283
 title: "SimpleKnight's Simple Life"
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9534694184549153
+  brandStrength: 0.7060932
+  lightness: 0.2858474506065249
+  brandColors:
+    - '#FFFFFF'
+    - '#070707'
+    - '#3D3D3D'
+    - '#6F7A77'
+    - '#B3BBBE'
+  rhythmicContrast: 0.9749348941259086
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Simpleknight
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7489905611146241
-  lightness: 0.28584745060652494
-  saturation: 0.9534694184549153
-  rhythmicContrast: 0.9749348941259086
-purpose: []
+typography_spectrum: 0.7946531039196998
+layout_spectrum: 0.9438617755658925
